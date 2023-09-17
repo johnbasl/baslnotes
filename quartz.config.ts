@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Basl - Shared Course Notes",
+    pageTitle: "Basl - Course Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
