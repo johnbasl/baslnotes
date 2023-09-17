@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Shared Course Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+On this site, you'll find shared course notes from your classmates. Browse to your class to see shared notes. 
