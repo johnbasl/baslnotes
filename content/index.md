@@ -2,4 +2,5 @@
 title: Shared Course Notes
 ---
 
-On this site, you'll find shared course notes from your classmates. Browse to your class to see shared notes. 
+# Fall 2023
+- [PHIL 1145: Technology and Human Values](https://johnbasl.net/sharednotes/coursenotes/Fall-2023/PHIL-1145---THV/)
